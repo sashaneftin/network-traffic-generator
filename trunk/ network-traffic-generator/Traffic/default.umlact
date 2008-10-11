@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmi:id="_qSAj8HpuEd28ZtUwykr8kA" type="UMLActivity" name="default.umlact" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_txYN0HpuEd28ZtUwykr8kA" type="oval">
+    <children xmi:type="notation:Node" xmi:id="_txYN1XpuEd28ZtUwykr8kA" type="DiagramName">
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_txYN1npuEd28ZtUwykr8kA" type="Description">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_txYN0XpuEd28ZtUwykr8kA" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_txYN0npuEd28ZtUwykr8kA"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_txYN03puEd28ZtUwykr8kA"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_txYN1HpuEd28ZtUwykr8kA" x="48" y="24" height="134"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_qSAj8XpuEd28ZtUwykr8kA"/>
+  <element xmi:type="uml:Package" href="default.uml#_qNPYsHpuEd28ZtUwykr8kA"/>
+</notation:Diagram>
